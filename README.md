@@ -1,0 +1,2 @@
+# Patterns
+Java patterns assignment
